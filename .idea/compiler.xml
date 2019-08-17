@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-consumer" />
+        <module name="eureka-consumer-ribbon" />
+        <module name="consul-consumer-feign" />
+        <module name="SpirngCloudTrain" />
+        <module name="eureka-consumer-feign" />
+        <module name="consul-client" />
+        <module name="consul-consumer" />
+        <module name="eureka-server-2" />
+        <module name="consul-consumer-ribbon" />
+        <module name="eureka-clinet" />
+        <module name="eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consul-cconsumer" target="1.8" />
+      <module name="consul-client" target="1.8" />
+      <module name="consul-consumer" target="1.8" />
+      <module name="consul-consumer-feign" target="1.8" />
+      <module name="consul-consumer-ribbon" target="1.8" />
+      <module name="eureka-clinet" target="1.8" />
+      <module name="eureka-consumer" target="1.8" />
+      <module name="eureka-consumer (1)" target="1.8" />
+      <module name="eureka-consumer-feign" target="1.8" />
+      <module name="eureka-consumer-ribbon" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-2" target="1.8" />
+      <module name="SpirngCloudTrain" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consul-client" options="-parameters" />
+      <module name="consul-consumer" options="-parameters" />
+      <module name="consul-consumer-feign" options="-parameters" />
+      <module name="consul-consumer-ribbon" options="-parameters" />
+      <module name="eureka-clinet" options="-parameters" />
+      <module name="eureka-consumer" options="-parameters" />
+      <module name="eureka-consumer-feign" options="-parameters" />
+      <module name="eureka-consumer-ribbon" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server-2" options="-parameters" />
+    </option>
+  </component>
+</project>

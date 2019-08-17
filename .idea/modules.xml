@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpirngCloudTrain.iml" filepath="$PROJECT_DIR$/.idea/SpirngCloudTrain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-client/consul-client.iml" filepath="$PROJECT_DIR$/consul-client/consul-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-consumer/consul-consumer.iml" filepath="$PROJECT_DIR$/consul-consumer/consul-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-consumer-feign/consul-consumer-feign.iml" filepath="$PROJECT_DIR$/consul-consumer-feign/consul-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-consumer-ribbon/consul-consumer-ribbon.iml" filepath="$PROJECT_DIR$/consul-consumer-ribbon/consul-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-clinet/eureka-clinet.iml" filepath="$PROJECT_DIR$/eureka-clinet/eureka-clinet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" filepath="$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-2/eureka-server-2.iml" filepath="$PROJECT_DIR$/eureka-server-2/eureka-server-2.iml" />
+    </modules>
+  </component>
+</project>

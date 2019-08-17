@@ -1,0 +1,13 @@
+server:
+  port: 8002
+spring:
+  application:
+    name: eureka-server-2
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8003/eureka/
+#   注册到注册中心
+    register-with-eureka: true
+#    共享本身数据
+    fetch-registry: true
